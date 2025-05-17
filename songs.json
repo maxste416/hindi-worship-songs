@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Aaja yo git",
+    "artistImage": "https://link-to-image.jpg",
+    "artist": "Demo Artist",
+    "scale": "F",
+    "beat": "4/4",
+    "lyricsRoman": "Aaja yo git timrai laagi ho\nIshwor-lenp timi-laai racanaa garnu-bho",
+    "chords": "F               G        C\nF         G        C"
+  },
+
+  {
+    "id": 2,
+    "title": "Tu Hai Mahan",
+    "artist": "John Worship",
+    "scale": "G",
+    "beat": "6/8",
+    "lyricsHindi": "तू है महान, तू है महान\nतेरे जैसा कोई नहीं",
+    "lyricsRoman": "Tu hai mahaan, tu hai mahaan\nTere jaisa koi nahi",
+    "chords": "G  D Em  C\nG  D  C  G"
+  },
+  {
+    "id": 3,
+    "title": "Yeshu Masih Ki Jai",
+    "artist": "Praise Team",
+    "scale": "D",
+    "beat": "4/4",
+    "lyricsHindi": "यीशु मसीह की जय हो\nविजयी राजा वह है",
+    "lyricsRoman": "Yeshu Masih ki jai ho\nVijayi raja wah hai",
+    "chords": "D  A  Bm  G\nD  A  G  D"
+  }
+]
