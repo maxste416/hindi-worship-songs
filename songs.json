@@ -29,8 +29,9 @@
     "lyricsHindi": "यीशु मसीह की जय हो\nविजयी राजा वह है",
     "lyricsRoman": "Yeshu Masih ki jai ho\nVijayi raja wah hai",
     "chords": "D  A  Bm  G\nD  A  G  D"
-  }
- { "id": 4,
+  },
+ { 
+   "id": 4,
     "title": "jai jai naam yeshu naam",
     "artist": "sheldon bangera",
     "scale": "C",
