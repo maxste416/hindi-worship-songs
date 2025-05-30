@@ -16,9 +16,11 @@
     "artist": "John Worship",
     "scale": "G",
     "beat": "6/8",
-    "lyricsHindi": "तू है महान, तू है महान\nतेरे जैसा कोई नहीं",
-    "lyricsRoman": "Tu hai mahaan, tu hai mahaan\nTere jaisa koi nahi",
-    "chords": "G  D Em  C\nG  D  C  G"
+    "lyricsHindi": "यीशु मसीह की जय हो\nउसका नाम पावन है",
+    "chordsHindi": "C            G\nF         C",
+
+    "lyricsRoman": "Yeshu Masih ki jai ho\nUska naam paawan hai",
+    "chordsRoman": "C            G\nF         C"
   },
   {
     "id": 3,
@@ -26,9 +28,11 @@
     "artist": "Praise Team",
     "scale": "D",
     "beat": "4/4",
-    "lyricsHindi": "यीशु मसीह की जय हो\nविजयी राजा वह है",
-    "lyricsRoman": "Yeshu Masih ki jai ho\nVijayi raja wah hai",
-    "chords": "D  A  Bm  G\nD  A  G  D"
+     "lyricsHindi": "तेरे बिना जी न सकूं मैं\nमसीहा तू जीवन है",
+    "chordsHindi": "D                   A\nBm       G",
+
+    "lyricsRoman": "Tere bina jee na sakoon main\nMasiha tu jeevan hai",
+    "chordsRoman": "D     A\nBm       G"
   },
  { 
    "id": 4,
