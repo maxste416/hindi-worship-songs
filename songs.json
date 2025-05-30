@@ -1,69 +1,31 @@
 [
   {
-    "id": 1,
-    "title": "Aaja yo git",
-    "artistImage": "https://link-to-image.jpg",
-    "artist": "Demo Artist",
-    "scale": "F",
+    "id": "1",
+    "title": "Yeshu Masih Ki Jai",
+    "artist": "Anil Kant",
+    "scale": "C",
     "beat": "4/4",
-    "lyricsRoman": "Aaja yo git timrai laagi ho\nIshwor-lenp timi-laai racanaa garnu-bho",
-    "chords": "F               G        C\nF         G        C"
-  },
+    "artistImage": "https://example.com/anil.png",
 
-  {
-    "id": 2,
-    "title": "Tu Hai Mahan",
-    "artist": "John Worship",
-    "scale": "G",
-    "beat": "6/8",
     "lyricsHindi": "यीशु मसीह की जय हो\nउसका नाम पावन है",
     "chordsHindi": "C            G\nF         C",
 
     "lyricsRoman": "Yeshu Masih ki jai ho\nUska naam paawan hai",
     "chordsRoman": "C            G\nF         C"
   },
+
   {
-    "id": 3,
-    "title": "Yeshu Masih Ki Jai",
-    "artist": "Praise Team",
+    "id": "2",
+    "title": "Tere Bina",
+    "artist": "Rohit John Chacko",
     "scale": "D",
-    "beat": "4/4",
-     "lyricsHindi": "तेरे बिना जी न सकूं मैं\nमसीहा तू जीवन है",
-    "chordsHindi": "D                   A\nBm       G",
+    "beat": "6/8",
+    "artistImage": "https://example.com/rohit.png",
+
+    "lyricsHindi": "तेरे बिना जी न सकूं मैं\nमसीहा तू जीवन है",
+    "chordsHindi": "D           A\nBm       G",
 
     "lyricsRoman": "Tere bina jee na sakoon main\nMasiha tu jeevan hai",
-    "chordsRoman": "D     A\nBm       G"
-  },
- { 
-   "id": 4,
-    "title": "jai jai naam yeshu naam",
-    "artist": "sheldon bangera",
-    "scale": "C",
-    "beat": "4/4",
-    "lyricsHindi": "यीशु मसीह की जय हो\nविजयी राजा वह है",
-    "lyricsRoman": "Yeshu Masih ki jai ho\nVijayi raja wah hai",
-    "chords": "D  A  Bm  G\nD  A  G  D"
- },
-  {
-    "id": 5,
-    "title": "Yeshu Tera Naam Sabse Uncha",
-    "artistImage": "",
-    "artist": "Yeshua, Cameron Mendes,",
-    "scale": "A",
-    "beat": "",
-    "lyricsHindi": "येशू तेरा नाम सबसे ऊँचा है (2)\n\nजिस नाम में है मुक्ति\nजिस नाम में है शक्ति\nजिस नाम में है शांति\nदेता वो नाम चंगाई (2)\n\nजिस नाम में है ज़िंदगी\nयेशू है वो नाम\nजिस नाम में है बंदगी\nयेशू है वो नाम\n\n[कोरस]\nयेशू तेरा नाम सबसे ऊँचा है (4)\n\nजिस नाम में है मुक्ति...\nयेशू तेरा नाम सबसे...\n\nबीमारी से, ग़रीबी से\nशापों से ही छुड़ाता\nवो नाम है जो अंधों को\nरौशनी भी है देता (2)\n\nजिस नाम में है ज़िंदगी...\nयेशू तेरा नाम...",
-    "lyricsRoman": "Yeshu Tera Naam Sabse Ooncha Hai (2)\n\nJis Naam Me Hai Mukti  \nJis Naam Me Hai Shakti  \nJis Naam Me Hai Shanti  \nDeta Voh Naam Changai (2)\n\nJis Naam Me Hai Zindagi  \nYeshu Hai Vo Naam  \nJis Naam Me Hai Bandagi  \nYeshu Hai Vo Naam\n\n[Chorus]  \nYeshu Tera Naam Sabse Ooncha Hai (4)\n\nJis Naam Me Hai Mukti...  \nYeshu Tera Naam Sabse...\n\nBimari Se, Garibi Se  \nShrapon Se He Chudatha  \nVo Naam He Jo Andhon Ko  \nRaushni Bhi He Deta (2)\n\nJis Naam Me Hai Zindagi...  \nYeshu Tera Naam...",
-    "chords": "G               A  \n\nA               G  \nD           A  \n                G  \nD               A  \n\n                G  \nD            A  \n                G  \nD            E  \n\nA          G    D            A  \n\nA             G  \nD                A  \n              G  \nD              A"
-  },
-  {
-    "id": 6,
-    "title": "Gao Hallelujah",
-    "artistImage": "",
-    "artist": "Yeshua, Cameron Mendes,",
-    "scale": "G",
-    "beat": "",
-    "lyricsHindi": "येशू ने हमें छुड़ाया है  \nपापों के जाल से  \nयेशू ने हमें बचाया है  \nशैतान की चाल से (2)\n\n[कोरस]  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह\n\n[अंतरा 2]  \nहमने शांति पाई है, येशू के नाम से  \nहमने पाई है क्षमा, मुक्ति श्रापों से\n\n[कोरस]  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह\n\n[अंतरा 3]  \nअब हम न डरेंगे, येशू जो साथ है  \nशैतान से हम लड़ेंगे, येशू के नाम से\n\n[कोरस]  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह\n\n[अंतरा 4]  \nशालोम शांति और सलाम  \nलाए हैं आपके नाम  \nशालोम शांति और सलाम  \nये है येशू का पैग़ाम (2)\n\n[कोरस]  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह  \nतो गाओ हालेलूयाह",
-    "lyricsRoman": "Yeshu Ne Hame Chudaya Hai  \nPaapon Ke Jaal Se  \nYeshu Ne Hame Bachaya Hai  \nShaitan Ki Chal Se (2)\n\n[Chorus]  \nTo Gao Hallelujah  \nTo Gao Hallelujah  \nTo Gao Hallelujah  \nTo Gao Hallelujah\n\n[Verse 2]  \nHum ne shanti payi hai, Yeshu ke naam se  \nHum ne payi hai shama, Mukti shrapon se\n\n[Chorus]  \nTo Gao Hallelujah  \nTo Gao Hallelujah  \nTo Gao Hallelujah  \nTo Gao Hallelujah\n\n[Verse 3]  \nAb hum na darenge, Yeshu jo saat hai  \nShaitan se hum ladenge, Yeshu ke naam se\n\n[Chorus]  \nTo Gao Hallelujah  \nTo Gao Hallelujah  \nTo Gao Hallelujah  \nTo Gao Hallelujah\n\n[Verse 4]  \nShalom Shanti aur Salaam  \nLaye hai apke naam  \nShalom Shanti aur Salaam  \nYe hai Yeshu ka Pehgham (2)\n\n[Chorus]  \nTo Gao Hallelujah  \nTo Gao Hallelujah  \nTo Gao Hallelujah  \nTo Gao Hallelujah",
-    "chords": "G                 C  \nG  \n                C  \nD              G  \n\nG           D  G  \nG           D  G  \n             C D G  \n             C D G  \n\nG             C         D             G  \nG            C          D            G  \n\nG           D  G  \nG           D  G  \n             C D G  \n             C D G  \n\nG          C       D              G  \nG                C      D             G  \n\nG           D  G  \nG           D  G  \n             C D G  \n             C D G  \n\nA                   D  \nE             A  \nA                   D  \nE                   A  \n\nG           D  G  \nG           D  G  \n             C D G  \n             C D G"
+    "chordsRoman": "D           A\nBm       G"
   }
 ]
